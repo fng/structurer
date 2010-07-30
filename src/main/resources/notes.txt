@@ -1,0 +1,127 @@
+Barrier Reverse Convertible (1 Bond, 1 Option)
+- solve for Coupon
+- solve for Barrier
+
+ |
+ |
+ |
+ |      _______________
+-|----------/-----------
+ |         /
+ |        /
+ |       /
+ |      /
+
+
+
+Reverse Convertible (1 Bond, 1 Option)
+- solve for Coupon
+- solve for Strike
+
+ |
+ |
+ |
+ |           __________
+-|----------/-----------
+ |         /
+ |        /
+ |       /
+ |      /
+
+
+
+Outperformance Certificate (2 Options)
+- solve for Participation
+
+ |              /
+ |             /
+ |            /
+ |           /
+-|----------/-----------
+ |         /
+ |        /
+ |       /
+ |      /
+
+
+
+Capped Outperformance Certificate (3 Options)
+- solve for Participation
+- solve for Cap Level
+
+ |              ________
+ |             /
+ |            /
+ |           /
+-|----------/-----------
+ |         /
+ |        /
+ |       /
+ |      /
+
+
+
+Capital Protection w/o Cap (1 Bond, 1 Option)
+- solve for Capital Protection
+- solve for Participation
+
+ |              /
+ |             /
+ |            /
+ |           /
+-|----------/-----------
+ |_________/
+ |
+ |
+ |
+
+
+
+Capital Protection with Cap (1 Bond, 2 Options)
+- solve for Capital Protection
+- solve for Participation
+- solve for Cap
+
+ |              ________
+ |             /
+ |            /
+ |           /
+-|----------/-----------
+ |_________/
+ |
+ |
+ |
+
+
+
+Bonus Certificate (1 Bond, 2 Options)
+- solve for Barrier
+- solve for Bonus
+
+               /
+ |            /
+ |           /
+ |      ____/
+ |         /
+-|--------/-----------
+ |       /
+ |      /
+ |     /
+ |    /
+
+
+
+Capped Bonus Certificate
+- solve for Barrier
+- solve for Bonus
+- solve for Cap
+               _______
+ |            /
+ |           /
+ |      ____/
+ |         /
+-|--------/-----------
+ |       /
+ |      /
+ |     /
+ |    /
